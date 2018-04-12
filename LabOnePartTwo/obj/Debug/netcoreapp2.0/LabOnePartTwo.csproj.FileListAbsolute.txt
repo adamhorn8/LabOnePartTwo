@@ -1,0 +1,11 @@
+/Users/Adam/Desktop/Projects/LabOnePartTwo/LabOnePartTwo/bin/Debug/netcoreapp2.0/LabOnePartTwo.deps.json
+/Users/Adam/Desktop/Projects/LabOnePartTwo/LabOnePartTwo/bin/Debug/netcoreapp2.0/LabOnePartTwo.runtimeconfig.json
+/Users/Adam/Desktop/Projects/LabOnePartTwo/LabOnePartTwo/bin/Debug/netcoreapp2.0/LabOnePartTwo.runtimeconfig.dev.json
+/Users/Adam/Desktop/Projects/LabOnePartTwo/LabOnePartTwo/bin/Debug/netcoreapp2.0/LabOnePartTwo.dll
+/Users/Adam/Desktop/Projects/LabOnePartTwo/LabOnePartTwo/bin/Debug/netcoreapp2.0/LabOnePartTwo.pdb
+/Users/Adam/Desktop/Projects/LabOnePartTwo/LabOnePartTwo/obj/Debug/netcoreapp2.0/LabOnePartTwo.csprojResolveAssemblyReference.cache
+/Users/Adam/Desktop/Projects/LabOnePartTwo/LabOnePartTwo/obj/Debug/netcoreapp2.0/LabOnePartTwo.csproj.CoreCompileInputs.cache
+/Users/Adam/Desktop/Projects/LabOnePartTwo/LabOnePartTwo/obj/Debug/netcoreapp2.0/LabOnePartTwo.AssemblyInfoInputs.cache
+/Users/Adam/Desktop/Projects/LabOnePartTwo/LabOnePartTwo/obj/Debug/netcoreapp2.0/LabOnePartTwo.AssemblyInfo.cs
+/Users/Adam/Desktop/Projects/LabOnePartTwo/LabOnePartTwo/obj/Debug/netcoreapp2.0/LabOnePartTwo.dll
+/Users/Adam/Desktop/Projects/LabOnePartTwo/LabOnePartTwo/obj/Debug/netcoreapp2.0/LabOnePartTwo.pdb
